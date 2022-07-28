@@ -1101,6 +1101,7 @@ export class WeaponModel {
   static weapon_marksmanpistol = 0xDC4DB296;
   static weapon_marksmanrifle = 0xC734385A;
   static weapon_marksmanrifle_mk2 = 0x6A6C02E0;
+  static weapon_metaldetector = 0xDBA2E80;
   static weapon_mg = 0x9D07F764;
   static weapon_microsmg = 0x13532244;
   static weapon_militaryrifle = 0x9D1F17E6;
@@ -1116,6 +1117,7 @@ export class WeaponModel {
   static weapon_pistol_mk2 = 0xBFE256D4;
   static weapon_pistol50 = 0x99AEEB3B;
   static weapon_poolcue = 0x94117305;
+  static weapon_precisionrifle = 0x6E7DDDEC;
   static weapon_proxmine = 0xAB564B93;
   static weapon_pumpshotgun = 0x1D073A89;
   static weapon_pumpshotgun_mk2 = 0x555AF99A;
@@ -1142,6 +1144,7 @@ export class WeaponModel {
   static weapon_stungun = 0x3656C8C1;
   static weapon_stungun_mp = 0x45CD9CF3;
   static weapon_switchblade = 0xDFE37640;
+  static weapon_tacticalrifle = 0xD1D5F52B;
   static weapon_tranquilizer = 0x32A888BD;
   static weapon_unarmed = 0xA2719263;
   static weapon_vintagepistol = 0x83839C4;
@@ -1214,6 +1217,7 @@ export enum WeaponModel {
   weapon_marksmanpistol = 0xDC4DB296,
   weapon_marksmanrifle = 0xC734385A,
   weapon_marksmanrifle_mk2 = 0x6A6C02E0,
+  weapon_metaldetector = 0xDBA2E809,
   weapon_mg = 0x9D07F764,
   weapon_microsmg = 0x13532244,
   weapon_militaryrifle = 0x9D1F17E6,
@@ -1229,6 +1233,7 @@ export enum WeaponModel {
   weapon_pistol_mk2 = 0xBFE256D4,
   weapon_pistol50 = 0x99AEEB3B,
   weapon_poolcue = 0x94117305,
+  weapon_precisionrifle = 0x6E7DDDEC,
   weapon_proxmine = 0xAB564B93,
   weapon_pumpshotgun = 0x1D073A89,
   weapon_pumpshotgun_mk2 = 0x555AF99A,
@@ -1255,6 +1260,7 @@ export enum WeaponModel {
   weapon_stungun = 0x3656C8C1,
   weapon_stungun_mp = 0x45CD9CF3,
   weapon_switchblade = 0xDFE37640,
+  weapon_tacticalrifle = 0xD1D5F52B,
   weapon_tranquilizer = 0x32A888BD,
   weapon_unarmed = 0xA2719263,
   weapon_vintagepistol = 0x83839C4,
